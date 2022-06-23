@@ -1,0 +1,4 @@
+com\andrey\devtest\CrudApplication.class
+com\andrey\devtest\controller\CustomerController.class
+com\andrey\devtest\model\Customer.class
+com\andrey\devtest\repository\CustomerRepository.class
